@@ -1,0 +1,15 @@
+{
+  "name": "experiment-proxyquire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "proxyquire": "^2.0.1"
+  }
+}
